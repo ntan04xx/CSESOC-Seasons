@@ -4,8 +4,9 @@ Objective:
 To create a website that encapsulates the theme of 'Seasons' using HTML and CSS.
 
 Different pages:
-- Home: Main page, introduction to the idea of seasons with scientific explanations
-- About Seasons: Information given about each season with custom seasonal backgrounds
-- Events: Lists different activities that can be enjoyed seasonally
+- Home: Main page, news of start of Spring 2023 anime season with background
+- About Anime Seasons: Explanation of how anime seasons came to exist and why they are referred to by seasonal names
+- Recommended Anime: List of anime that contributors recommend that are currently airing with image, name, short description and MAL link of the anime
+- Anime News: Links to any recent news on anime that are occurring
 
-All pages have backgrounds that revolve around seasonal theme and if possible, include animation for page load. Logo for website will be '季' character which means 'seasons'.
+Animation for page load and logo for website will be '季' character which means 'seasons'.
